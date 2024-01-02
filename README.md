@@ -3,9 +3,10 @@
 # Introduction
 
 Have you ever meet a turret face-to-face at the entrance?
-![](https://github.com/19miffyliu/Kill-It-With-Shovel/asset/gif/CommonScenario.gif)
 
-If you have--and like me, are super annoyed by it, this mod is for you! 
+![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/gif/CommonScenario.gif)
+
+If you have--and like me, you're super annoyed by it, this mod is for you! 
 
 # Description
 You can now:
@@ -17,10 +18,10 @@ You can now:
 ## Berseker Mode when being waked
 
 **Enabled:**
-![](https://github.com/19miffyliu/Kill-It-With-Shovel/asset/gif/YesBersekerMode.gif)
+![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/gif/YesBersekerMode.gif)
 
 **Disabled:**
-![](https://github.com/19miffyliu/Kill-It-With-Shovel/asset/gif/NoBersekerMode.gif)
+![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/gif/NoBersekerMode.gif)
 
 
 ## Disable Duration
