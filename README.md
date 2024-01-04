@@ -4,6 +4,8 @@
 
 Have you ever meet a turret face-to-face at the entrance?
 
+![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/gif/CommonScenario.gif)
+
 If you have--and like me, you're super annoyed by it, this mod is for you! 
 
 # Description
@@ -15,10 +17,11 @@ You can now:
 
 ## Berseker Mode when being waked
 
-**Enabled:** The turret will fire and swing like vanilia when you hit it while it is disabled.
+**Enabled:**The turret will fire and swing like vanilia when you hit it while it is disabled.
+![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/gif/YesBersekerMode.gif)
 
-
-**Disabled:** The turret will stay disabled, but the duration will not stack the more times you hit.
+**Disabled:**The turret will stay disabled, but the duration will not stack the more times you hit.
+![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/gif/NoBersekerMode.gif)
 
 
 ## Disable Duration
