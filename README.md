@@ -13,7 +13,14 @@ You can now:
 - Disable the turret for 5 seconds by hitting it with a shovel.
 - Enable the turret again by hitting it twice.  **BEWARE: turret does NOT like being disturbed in sleep.**
 
+# Update
+
+1.0.1: Fix a bug where turrets will be disabled but will keep shooting if a player hits it in beserker mode.
+
+
 # Config Options
+
+- Config will automatically sync with host.
 
 ## Berseker Mode when being waked
 
@@ -24,6 +31,6 @@ You can now:
 ![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/gif/NoBersekerMode.gif)
 
 
-## Disable Duration
+## Disabled Duration
 
 The time it takes for turret to become active again, in seconds.
