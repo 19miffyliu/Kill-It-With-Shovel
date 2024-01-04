@@ -21,7 +21,11 @@ You can now:
 ## This mod is incompatible with:
 - [**Fair AI**](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/): the disabled duration will be half a second no matter the config (See [issue 1](https://github.com/19miffyliu/Kill-It-With-Shovel/issues/1) for details)
 
-![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/mp4/FairAI_CREEPERDUDE062.mp4)
+
+
+https://github.com/19miffyliu/Kill-It-With-Shovel/assets/54558812/57a3f60c-35da-450d-bc9e-b19f84b6b2f1
+
+
 
 
 # Update
