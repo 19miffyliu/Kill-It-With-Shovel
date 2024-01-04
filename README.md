@@ -13,6 +13,17 @@ You can now:
 - Disable the turret for 5 seconds by hitting it with a shovel.
 - Enable the turret again by hitting it twice.  **BEWARE: turret does NOT like being disturbed in sleep.**
 
+# Compatibility
+## This mod is compatible with:
+- Any mod that does not tweak turret behavior
+
+
+## This mod is incompatible with:
+- [**Fair AI**](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/): the disabled duration will be half a second no matter the config (See [issue 1](https://github.com/19miffyliu/Kill-It-With-Shovel/issues/1) for details)
+
+![](https://github.com/19miffyliu/Kill-It-With-Shovel/blob/main/asset/mp4/FairAI_CREEPERDUDE062.mp4)
+
+
 # Update
 
 1.0.1: Fix a bug where turrets will be disabled but will keep shooting if a player hits it in beserker mode.
