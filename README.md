@@ -14,7 +14,7 @@ You can now:
 - Enable the turret again by hitting it twice.  **BEWARE: turret does NOT like being disturbed in sleep.**
 
 # How to Install
-Go to [ThunderStore](https://thunderstore.io/c/lethal-company/p/MiffyL/Kill_It_With_Shovel/), click manual install., then launch the game from Thunderstore.
+Go to [ThunderStore](https://thunderstore.io/c/lethal-company/p/MiffyL/Kill_It_With_Shovel/), click "install through mod manager"., then launch the game from Thunderstore mod manager.
 
 
 # Compatibility
