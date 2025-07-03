@@ -13,6 +13,10 @@ You can now:
 - Disable the turret for 5 seconds by hitting it with a shovel.
 - Enable the turret again by hitting it twice.  **BEWARE: turret does NOT like being disturbed in sleep.**
 
+# How to Install
+Go to [ThunderStore](https://thunderstore.io/c/lethal-company/p/MiffyL/Kill_It_With_Shovel/), click manual install., then launch the game from Thunderstore.
+
+
 # Compatibility
 ## This mod is compatible with:
 - Any mod that does not tweak turret behavior
